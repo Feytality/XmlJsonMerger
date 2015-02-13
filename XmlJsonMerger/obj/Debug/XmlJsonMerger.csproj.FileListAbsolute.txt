@@ -1,0 +1,12 @@
+c:\users\felicia\documents\visual studio 2013\Projects\XmlJsonMerger\XmlJsonMerger\bin\Debug\XmlJsonMerger.exe.config
+c:\users\felicia\documents\visual studio 2013\Projects\XmlJsonMerger\XmlJsonMerger\bin\Debug\XmlJsonMerger.exe
+c:\users\felicia\documents\visual studio 2013\Projects\XmlJsonMerger\XmlJsonMerger\bin\Debug\XmlJsonMerger.pdb
+c:\users\felicia\documents\visual studio 2013\Projects\XmlJsonMerger\XmlJsonMerger\obj\Debug\XmlJsonMerger.csprojResolveAssemblyReference.cache
+c:\users\felicia\documents\visual studio 2013\Projects\XmlJsonMerger\XmlJsonMerger\obj\Debug\XmlJsonMerger.ChooseFiles.resources
+c:\users\felicia\documents\visual studio 2013\Projects\XmlJsonMerger\XmlJsonMerger\obj\Debug\XmlJsonMerger.Properties.Resources.resources
+c:\users\felicia\documents\visual studio 2013\Projects\XmlJsonMerger\XmlJsonMerger\obj\Debug\XmlJsonMerger.csproj.GenerateResource.Cache
+c:\users\felicia\documents\visual studio 2013\Projects\XmlJsonMerger\XmlJsonMerger\obj\Debug\XmlJsonMerger.exe
+c:\users\felicia\documents\visual studio 2013\Projects\XmlJsonMerger\XmlJsonMerger\obj\Debug\XmlJsonMerger.pdb
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\XmlJsonMerger\XmlJsonMerger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\XmlJsonMerger\XmlJsonMerger\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\XmlJsonMerger\XmlJsonMerger\bin\Debug\Newtonsoft.Json.xml
